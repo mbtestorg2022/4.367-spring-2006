@@ -15,7 +15,7 @@ videos:
 
 As part of the class, a document was created for publication. It shows the work of all the students in the class, and presents an overarching view of the semester.
 
-Final Document (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/document))
+Final Document ([PDF - 1.9 MB]({{< baseurl >}}/resources/document))
 
 ### CAVS Lecture Series
 
